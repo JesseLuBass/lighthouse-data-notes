@@ -13,3 +13,30 @@ function whatToDoForLunch(hungry,availableTime) {
     console.log("available time is",availableTime);
 }
 ```
+
+Day 1 
+Five rules 
+Ask for help 
+Put in the hours 
+Take breaks + get proper sleep 
+Don’t compare yourself to others 
+Comfortable being uncomfortable 
+
+Our philosophies and approach 
+Data science is a team sport 
+Bootcamp is a 6-12 month journey 
+Hands-on learning & flipped classroom 
+
+Typical day:
+Lectures - 2 hours 
+
+Mentors - Monday to Thursday: 7 am - 9 pm
+Friday: 7 am - 6 pm
+
+Weeknds: 6 - 8 hour work, limited mentor support 
+
+Work on an activity for 15 mins, and if you can’t solve it, call for help 
+
+80/20 rule
+
+
